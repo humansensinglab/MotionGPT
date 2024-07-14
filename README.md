@@ -16,6 +16,10 @@ If you find this code useful in your research, please cite:
 }
 ```
 
+### NOTE: WIP
+
+This code currently only has the instructions for inference. Training and data preparation will come shortly.
+
 ## Getting started
 
 This code was tested on `Ubuntu 18.04 LTS` and requires:
